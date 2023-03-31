@@ -27,6 +27,10 @@
     "shared" : false,
     "phrases" : [ {
       "text" : "курс"
+    }, {
+      "text" : "доллар"
+    }, {
+      "text" : "евро"
     } ],
     "classificationRules" : {
       "refs" : [ ]
@@ -50,10 +54,15 @@
     "shared" : false,
     "phrases" : [ {
       "text" : "привет"
+    }, {
+      "text" : "добрый день"
+    }, {
+      "text" : "здравствуй"
     } ],
     "classificationRules" : {
       "refs" : [ ]
     },
+    "patterns" : [ ],
     "priority" : 0
   }, {
     "path" : "/погода",
@@ -61,6 +70,10 @@
     "shared" : false,
     "phrases" : [ {
       "text" : "погода"
+    }, {
+      "text" : "градус"
+    }, {
+      "text" : "сколько"
     } ],
     "classificationRules" : {
       "refs" : [ ]
